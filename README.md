@@ -10,7 +10,7 @@
   <a href="https://github.com/brenerpittner">
   <!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=brenerpittner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenerpittner&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
 <div lign="center" style="display: inline_block"><br>
   <img  alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,6 +20,7 @@
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 </div>
 
 <br>
