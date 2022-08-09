@@ -1,18 +1,26 @@
-## Brener Pittner : Hello World!
+<style>
+.sections {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://pittnerd.com.br)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://pittnerd.com.br)
+<div class="sections">
+Brener Pittner : Hello World!
+</div>
+<br>
+
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenerpittner/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenerpittner/)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pittnerbrener/)
 
-
-<div align="center">
-  <a href="https://github.com/brenerpittner">
+<div align="center" >
   <!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=brenerpittner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenerpittner&layout=compact&langs_count=7&theme=dracula"/>
 
 
-<div lign="center" style="display: inline_block"><br>
+<div align="center" style="display: center-flex"><br>
   <img  alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img  alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img  alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -24,8 +32,9 @@
 </div>
 
 <br>
-
-## Plataformas:
+<div class="sections">
+Plataformas
+</div>
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -35,7 +44,9 @@
 
 <br>
 
-## Linguagens:
+<div class="sections">
+Linguagens
+</div>
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -51,31 +62,17 @@
 
 <br>
 
-## My workstation:
-<div style="display: inline_block"><br/>
-<img align="center" alt="nvidea" src="https://img.shields.io/badge/NIDIA-QUADRA--6000-RED" />
-<img align="center" alt="intel" src="https://img.shields.io/badge/intel-i7--4790-blue" />
-<img align="center" alt="ssd" src="https://img.shields.io/badge/ssd-480GB-black" />
-<img align="center" alt="ram" src="https://img.shields.io/badge/ram-16GB-yellow" />
+<div class="sections">
+My workstation
 </div>
 
+<div style="display: inline_block"><br/>
+<img align="center" alt="nvidea" src="https://img.shields.io/badge/NVIDIA-QUADRA-0" />
+<img align="center" alt="intel" src="https://img.shields.io/badge/intel-i7--4790-blue" />
+<img align="center" alt="ssd" src="https://img.shields.io/badge/ssd-480GB-orange" />
+<img align="center" alt="ram" src="https://img.shields.io/badge/ram-16GB-yellow" />
+</div>
+<br>
 
-
-
-
-
-<!--
-**brenerpittner/brenerpittner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-https://www.youtube.com/watch?v=cRoBt6AZgjc&ab_channel=Sujeitoprogramador
--->
+[![size](https://badge-size.herokuapp.com/brenerpittner/brenerpittner/main/README.md)](https://pittnerd.com.br)
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://pittnerd.com.br)
