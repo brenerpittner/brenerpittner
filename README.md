@@ -45,6 +45,5 @@
 
 <div align="center">
   <h2>Contador de visitas</h2>
-  ![Visitor Count](https://profile-counter.glitch.me/odirlei-assis/count.svg)  
-  ![Snake animation](https://github.com/odirlei-assis/odirlei-assis/blob/output/github-contribution-grid-snake.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/odirlei-assis/count.svg)
 </div>
