@@ -42,8 +42,3 @@
   <img alt="Blog" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">
   </div>
 </div>
-
-<div align="center">
-  <h2>Contador de visitas</h2> 
-  [![Visitor Count](https://profile-counter.glitch.me/brenerpittner/count.svg)]
-</div>
