@@ -42,3 +42,5 @@
   <img alt="Blog" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">
   </div>
 </div>
+
+![Visitor Count](https://profile-counter.glitch.me/odirlei-assis/count.svg)
