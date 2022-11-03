@@ -45,5 +45,5 @@
 
 <div align="center">
   <h2>Contador de visitas</h2> 
-  ![Visitor Count](https://profile-counter.glitch.me/brenerpittner/count.svg)
+  [![Visitor Count](https://profile-counter.glitch.me/brenerpittner/count.svg)]
 </div>
