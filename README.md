@@ -1,11 +1,10 @@
 # Brener Pittner : Hello World!
+## Meu GitHub está vazio, pois meu foco tem sido em software para empresas onde repositórios são privados.
+### Entre em contato: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenerpittner/)
 
-<!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=brenerpittner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenerpittner&layout=compact&langs_count=7&theme=dracula"/>
+<!--[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenerpittner/)-->
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenerpittner/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenerpittner/)
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pittnerbrener/)
+<!--[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pittnerbrener/)-->
 
   <div style="display: center-flex"><br>
     <img alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -42,3 +41,7 @@
   <img alt="Blog" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">
   </div>
 </div>
+
+
+<!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=brenerpittner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenerpittner&layout=compact&langs_count=7&theme=dracula"/>
